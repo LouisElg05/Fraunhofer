@@ -7,6 +7,8 @@ int main()
 {
     std::cout << "Hello erde!\n";
     std::cout << "Das geht ja gar nicht!"; 
+    std::cout << "Wie mache ich das ?????";
+
  
 }
 
