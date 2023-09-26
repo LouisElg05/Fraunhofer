@@ -9,6 +9,7 @@ int main()
     std::cout << "Das geht ja gar nicht!"; 
     std::cout << "Ich war als erstes da ";
     std::cout << "Wie mache ich das ?????";
+    std::cout << "Hallo"; 
 
  
 }
