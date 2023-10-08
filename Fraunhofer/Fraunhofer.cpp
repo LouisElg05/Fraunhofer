@@ -18,6 +18,12 @@ int add(int zahl) {
     erg += zahl; 
     return zahl; 
 }
+int div(int zahl) {
+    int erg = 0;
+    erg -= zahl;
+    return zahl;
+
+}
 
 // Programm ausführen: STRG+F5 oder Menüeintrag "Debuggen" > "Starten ohne Debuggen starten"
 // Programm debuggen: F5 oder "Debuggen" > Menü "Debuggen starten"
